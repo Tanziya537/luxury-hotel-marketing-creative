@@ -1,2 +1,4 @@
-# luxury-hotel-marketing-creative
-Hospitality-themed Instagram poster created in Canva showcasing clean layout, warm visuals, and premium hotel branding. Part of my digital marketing design portfolio.
+Luxury Hotel – Instagram Promotional Poster
+
+This project showcases a hospitality-themed Instagram poster designed for a luxury hotel.
+The focus is on clean layout, warm color tones, and visuals that highlight comfort, service, and premium guest experience.
